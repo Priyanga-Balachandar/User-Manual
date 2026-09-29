@@ -114,7 +114,10 @@ The mobile phone includes the following features:
 | Phone is slow | Close unused applications and restart the phone. |
 | Camera is not working | Close and reopen the Camera application. |
 
-## 10. Maintenance
+## 10. Warranty
+10 years warranty
+
+## 11. Maintenance
 
 - Keep the phone clean and dry.
 - Use a suitable protective case and screen protector.
@@ -122,7 +125,7 @@ The mobile phone includes the following features:
 - Avoid exposing the phone to extreme temperatures.
 - Store the phone safely when not in use.
 
-## 11. Revision History
+## 12. Revision History
 
 | Version | Date | Description |
 |---|---|---|
