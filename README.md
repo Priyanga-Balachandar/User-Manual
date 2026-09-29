@@ -55,11 +55,11 @@ The mobile phone includes the following features:
 
 ### 4.2 Sending a Message
 
-1. Open the Messages application.
-2. Select New Message.
-3. Enter the recipient's phone number.
-4. Type the message.
-5. Tap Send.
+[] Open the Messages application.
+[] Select New Message.
+[] Enter the recipient's phone number.
+[] Type the message.
+[] Tap Send.
 
 ## 5. Camera
 
