@@ -106,7 +106,7 @@ The mobile phone includes the following features:
 ## 9. Troubleshooting
 
 | Problem | Possible Solution |
-|---|---|
+|:---:|:---:|
 | Phone does not switch on | Charge the battery and try again. |
 | Phone is not charging | Check the cable, adapter, and charging port. |
 | No network connection | Check SIM card and network settings. |
