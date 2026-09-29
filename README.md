@@ -103,6 +103,7 @@ The mobile phone includes the following features:
 - Do not attempt to disassemble the phone.
 - Keep the device and accessories away from children.
 
+>[!Warning]
 ## 9. Troubleshooting
 
 | Problem | Possible Solution |
